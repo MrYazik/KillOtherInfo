@@ -3,7 +3,13 @@
 
 ## Пример работы плагина
 
-![An example of how the plugin works](./GIF/example.gif)
+### Просто убийство:
+
+![An example of how the plugin works](./GIF/Просто%20убийство.gif)
+
+### Убийство в голову:
+
+![An example of how the plugin works](./GIF/Убийство%20в%20голову.gif)
 
 ## Как установить?
 Установите [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=stable) и [Sourcemod](https://www.sourcemod.net/downloads.php?branch=stable). 
