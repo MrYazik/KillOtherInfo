@@ -5,12 +5,12 @@
 
 void Upper_Case(char[] weapon, int sizeArray)
 {
-    char lowerCaseEnglish[26] = "abcdefghljklmnopqrstuvwxyz";
-    char upperCaseEnglish[26] = "ABCDEFGHLJKLMNOPQRSTUVWXYZ";
+    char lowerCaseEnglish[27] = "abcdefghljklmnopqrstuvwxyzi";
+    char upperCaseEnglish[27] = "ABCDEFGHLJKLMNOPQRSTUVWXYZI";
 
     for (int i = 0; i <= sizeArray; i++)
     {       
-        for (int p = 0; p < 26; p++)
+        for (int p = 0; p < 27; p++)
         {
             if (weapon[i] == lowerCaseEnglish[p])
             {
